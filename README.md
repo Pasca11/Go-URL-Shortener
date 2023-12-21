@@ -1,1 +1,1 @@
-Stack: Go, chi, slog, postgres
+Stack: Go, chi, slog, cleanenv, postgres
